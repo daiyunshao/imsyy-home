@@ -2,36 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://www.mcfxz.com"
+    "link": "https://blog.mcfxz.com"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://www.mcfxz.com/"
+    "link": "https://pan.mcfxz.com/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://www.mcfxz.com/"
+    "name": "弹幕库",
+    "link": "https://dm.mcfxz.com/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://www.mcfxz.com/"
+    "name": "VIP解析",
+    "link": "http://bf.mcfxz.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "等待上线",
     "link": "https://www.mcfxz.com/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
+    "name": "等待上线",
     "link": "https://www.mcfxz.com/"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测(测试)",
-    "link": "https://www.mcfxz.com/"
-  }
 ]
